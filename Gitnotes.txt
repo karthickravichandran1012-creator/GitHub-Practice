@@ -1,0 +1,46 @@
+GIT AND GITHUB LEARNING NOTES
+
+1. What is Git?
+Git is a version control system.
+It tracks changes in source code.
+
+2. What is GitHub?
+GitHub is a cloud platform used
+to store and manage Git repositories.
+
+3. Important Git Commands
+
+git init
+Initializes a Git repository.
+
+git status
+Checks file changes.
+
+git add .
+Adds files to staging.
+
+git commit -m "First commit"
+Saves changes locally.
+
+git push
+Pushes changes to GitHub.
+
+git pull
+Downloads latest changes.
+
+git clone
+Copies a remote repository.
+
+4. Git Workflow
+
+Create File
+     |
+git init
+     |
+git add .
+     |
+git commit
+     |
+git push
+     |
+GitHub Repository
